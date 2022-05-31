@@ -1,0 +1,17 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Module Example</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66423</md:content-id>
+  <md:title>Module Example</md:title>
+  <md:abstract>Module Example</md:abstract>
+  <md:uuid>3808c0de-0b7e-4f96-82d1-4e8f7b1215f7</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">
+     <!-- Insert module text here -->
+  </para>
+</content>
+
+</document>
